@@ -2,7 +2,7 @@
 
 <b>Brak folderu node_modules</b>
 
-Wczesna i niestylowana wersja aplikacji mającej na celu wyświetlanie wielu strem'ów z serwisu Twtich.tv. Logowanie wspomagane OAuth2, pobranie listy kanałów śledzonych przez użytkownika z użyciem Twith API oraz dodawanie wyświetlanych stream'ów za pomocą JS.
+Wczesna i niestylowana wersja aplikacji mającej na celu wyświetlanie wielu stream'ów z serwisu Twtich.tv. Logowanie wspomagane OAuth2, pobranie listy kanałów śledzonych przez użytkownika z użyciem Twith API oraz dodawanie wyświetlanych stream'ów za pomocą JS.
 
 Użyto:
  - Node.js
