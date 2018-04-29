@@ -1,0 +1,9 @@
+.followersContainer {
+    float: left;
+    width: 33%;
+}
+
+.streamsContainer {
+    float:right;
+    width:66%;
+}
